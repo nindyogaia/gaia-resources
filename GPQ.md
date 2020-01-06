@@ -1,25 +1,117 @@
-### Manage Relations
+### Analytical Thinking
 
-Nama | Manage Relations
+Nama | Analytical Thinking
 :----|:----
-Kode | MNRL
-Alias | Socializing
-Definisi | Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kode | ATH
+Alias | 
+Definisi | 
 
-### Achievement Drive
+### Conceptual Thinking
 
-Nama  | Achievement Drive
-:-----|:----
-Kode  | ACHD
-Alias | Semangat Tempur
-Definisi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nama | Conceptual Thinking
+:----|:----
+Kode | CTH
+Alias | 
+Definisi | 
 
-### Ascent Drive
+### Creativity
 
-Nama  | Ascent Drive
-:-----|:----
-Kode  | ASCD
-Alias | Dorongan Mendaki
-Definisi | Karakter yang menggambarkan semangat tempur, dapat diukur melalui setidaknya dua metode: Gerkhin dan Absol.
-Deskripsi | Lorem ipsum dolor sit amet, **consectetur adipisicing** elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. *Ut enim ad minim veniam*, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+Nama | Creativity
+:----|:----
+Kode | CRE
+Alias | 
+Definisi |
 
+### Strategic Thinking
+
+Nama | Strategic Thinking
+:----|:----
+Kode | STH
+Alias | 
+Definisi |
+
+### Planning
+
+Nama | Planning
+:----|:----
+Kode | PLA
+Alias | 
+Definisi |
+
+### Organizing
+
+Nama | Organizing
+:----|:----
+Kode | ORG
+Alias | 
+Definisi |
+
+### Controlling
+
+Nama | Controlling
+:----|:----
+Kode | CON
+Alias | 
+Definisi |
+
+### Social Awareness
+
+Nama | Social Awareness
+:----|:----
+Kode | SAW
+Alias | 
+Definisi |
+
+### Collaboration
+
+Nama | Collaboration
+:----|:----
+Kode | COL
+Alias | 
+Definisi |
+
+### Networking
+
+Nama | Networking
+:----|:----
+Kode | NET
+Alias | 
+Definisi |
+
+### Communication
+
+Nama | Communication
+:----|:----
+Kode | COM
+Alias | 
+Definisi |
+
+### Persuasiveness
+
+Nama | Persuasiveness
+:----|:----
+Kode | PER
+Alias | 
+Definisi |
+
+### Self-Control
+
+Nama | Self-Control
+:----|:----
+Kode | SCO
+Alias | 
+Definisi |
+
+### Adaptability
+
+Nama | Adaptability
+:----|:----
+Kode | ADA
+Alias | 
+Definisi |
+
+Nama | Self Development
+:----|:----
+Kode | SDE
+Alias | 
+Definisi |
